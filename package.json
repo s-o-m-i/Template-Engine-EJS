@@ -19,6 +19,7 @@
   "homepage": "https://github.com/s-o-m-i/Template-Engine-EJS#readme",
   "description": "",
   "dependencies": {
+    "ejs": "^5.0.2",
     "express": "^5.2.1"
   }
 }
